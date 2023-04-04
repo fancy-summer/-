@@ -1,19 +1,19 @@
-import Vue from 'Vue'
-import VeeValidate from 'vee-validate'
+// import Vue from 'Vue'
+// import VeeValidate from 'vee-validate'
 
-import zh_CN from 'vee-validate/dist/locale/zh_CN'
-Vue.use(VeeValidate)
+// import zh_CN from 'vee-validate/dist/locale/zh_CN'
+// Vue.use(VeeValidate)
 
-VeeValidate.Validator.locale('zh_CN',{
-    message:{
-        ...zh_CN.messages,
-        is:(field) => `${field}必须与密码相同`
-    },
-    attributes:{
-        phone:'手机号',
-        code:'验证码',
-        password:'密码',
-        password1:'确认密码',
-        isCheck:'协议'
-    }
-})
+// VeeValidate.Validator.locale('zh_CN',{
+//     message:{
+//         ...zh_CN.messages,
+//         is:(field) => `${field}必须与密码相同`
+//     },
+//     attributes:{
+//         phone:'手机号',
+//         code:'验证码',
+//         password:'密码',
+//         password1:'确认密码',
+//         isCheck:'协议'
+//     }
+// })
