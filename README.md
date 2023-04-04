@@ -35,9 +35,9 @@ npm run serve
 - 编辑现有商品
 - 删除购物车中的商品
 - 查看我的订单
-## 使用的技术
+## 技术栈
 该项目使用以下技术：
-- Vue.js 2
+- Vue 2
 - Vuex
 - Vue Router
 - ES6
@@ -45,6 +45,5 @@ npm run serve
 - Axios
 ## 贡献
 欢迎对该项目进行贡献。要进行贡献，请fork该项目并创建一个pull request。
-## 许可证
-该项目可在MIT许可证下使用。有关更多信息，请参见[LICENSE](LICENSE)文件。
+
 
