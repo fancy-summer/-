@@ -4,6 +4,7 @@ import mockRequests from './mockAjax'
 
 export const reqCategoryList = ()=>requests({url:'/product/getBaseCategoryList',method:'get'})
 
+//来自尚硅谷的后端接口
 //获取Mock的banner的数据
 export const reqGetBannerList = ()=>mockRequests.get('/banner')
 
