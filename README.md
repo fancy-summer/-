@@ -1,24 +1,12 @@
-# app
+# Vue2电商项目
 
-## Project setup
-```
-npm install
-```
+## 项目描述：
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1 此项目为在线电商Web App (SPA)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2 包括首页, 搜索列表, 商品详情, 购物车, 订单, 支付, 用户登陆/注册等多个子模块
 
-### Lints and fixes files
-```
-npm run lint
-```
+3 使用Vue全家桶+ES6++Webpack+Axios等前端最新最热的技术
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4 采用模块化、组件化、工程化的模式开发
+
